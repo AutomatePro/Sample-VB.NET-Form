@@ -4,7 +4,7 @@ Imports System.Data.OleDb
 
 
 Public Class EyeOPDDatabase
-    Private connectionString As String = "Server = SMJ; Database = EyeOPD; User=AP_User;Pwd= XORMac123#;"
+    Private connectionString As String = "Server = xxx; Database = xxx; User=xxx;Pwd= xxx;"
 
     ' Method to get a SqlConnection object
     Public Function GetConnection() As SqlConnection
